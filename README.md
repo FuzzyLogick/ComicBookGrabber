@@ -1,7 +1,7 @@
 # ComicBookGrabber
 
 Four scripts I had previously used to download comic books from a website.  To understand how the scripts worked, you must first
-understand this website.  The site hosted well over several thousand comics.  After you've selected a comic you'd press an arrow 
+understand this website.  The site hosted well over several thousand comics.  After you've selected a comic you'd press an arrow to
 "flip through" to the next page, opposite arrow went the other direction.  Right clicking on the image and selecting "view image"
 gave you the path of the jpg being used.  The jpgs were numbered in increasing order.  Changing the number at the end of the URL to 
 30 or 200 (for a graphic novel), would lead you somewhere to the end. A little fine tuning would get you to the last jpg.  From 
