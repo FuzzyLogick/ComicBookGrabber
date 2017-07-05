@@ -10,7 +10,7 @@ to match whatever the last page was named, replace the URL up to the page number
 
 This next part is purely optional, but you can open chestburster.sh and change the output file name to match whatever comic book 
 you are downloading.  It may be worth it to you, but it isn't anything a quick right-click-rename can't handle in the GUI.  This
-script will take all of the downloaded jpgs and convert/comile them into one PDF.  Be aware however, YOU WILL NEED TO INSTALL 
+script will take all of the downloaded jpgs and convert/compile them into one PDF.  Be aware however, YOU WILL NEED TO INSTALL 
 IMAGEMAGICK for the "convert" command to work.  The output will be whatever.pdf and a whole mess of .jpgs laying around.
 
 The final script, remover.sh deletes all of the .jpg files.  it's not anything magical, just your usual rm command.  
